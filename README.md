@@ -1,3 +1,29 @@
+# planning-with-files
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 AI 编码 Agent 与长任务的持久化文件式计划，抗崩溃 Markdown 计划与会话恢复。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 <img src="media/pwf-banner-v5.webp" alt="PWF: Every task. Every step. Three planning files on a brass-inlaid base beneath an engraved arch" width="100%">
 </div>
